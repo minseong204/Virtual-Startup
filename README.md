@@ -2,6 +2,8 @@
 A business model visualization tool that validates and improves business ideas through the Lean Canvas in class.<br>
 수업시간에 했던 린캔버스를 통해 비즈니스 아이디어를 검증하고 개선하는 비즈니스 모델 시각화 도구<br>
 
+# 2023-12-5 발표자료
+* [프레지 PPT](https://prezi.com/view/NazCe2jx1mndXlAypf9C/)
 # List(목차)
 * [느낀점](#느낀점-배운점)
 * [문제 (Problem)](#problem)
